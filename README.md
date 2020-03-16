@@ -1,6 +1,4 @@
-# pyipchg
-open common groups of  files together for productivity
-======
+
 **pyipchg** Changes current ip without going through windows GUI
 
 ### Translations
